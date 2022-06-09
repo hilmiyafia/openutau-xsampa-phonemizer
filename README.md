@@ -1,4 +1,4 @@
-# OpenUtau X-Sampa CV / CVVC Phonemizer
+# OpenUtau X-Sampa Phonemizer
 This repository contains a C# library code for OpenUtau X-Sampa phonemizer.
 
 ## Installation
