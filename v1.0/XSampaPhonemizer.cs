@@ -6,8 +6,8 @@ using System.Collections.Generic;
 
 namespace OpenUtau.Api {
 
-    [Phonemizer("X-Sampa CVVC", "X-SAMPA CVVC", "Hilmi Yafi A")]
-    public class Phonemizer : SyllableBasedPhonemizer {
+    [Phonemizer("X-Sampa Phonemizer", "X-SAMPA", "Hilmi Yafi A")]
+    public class XSampaPhonemizer : SyllableBasedPhonemizer {
 
         string[] vowels = "i,e,E,a,A,O,o,u,y,2,9,&,Q,V,7,M,1,},I,Y,U,@,8,6,{,3,@`,3\\,@\\".Split(",");
 
