@@ -9,7 +9,7 @@ This repository contains a C# library code for OpenUtau X-Sampa Phonemizer.
 ## Usage
 - Write only one syllable per note. A group of vowels (not separated by any consonant) is considered one syllable.
 One syllable: 
-friend `[f r E n d]`
+friend `[f r E n d]` <br />
 strikes `[s t r a I k s]`
 Not one syllable: 
 brother `[b r V D @ r]`
