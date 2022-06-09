@@ -21,4 +21,4 @@ singing `[s I] [N I N]`<br />
 - Add consonants at the end and/or beginning of a note to create CVVC.<br />
 I'm a pilot `[a i m] [@] [p a i] [l @ t]` becomes `[a i m] [m @ p] [p a i l] [l @ t]`<br />
 
-- If you have endings, you can treat it as a consonant.
+- If you have endings, you can treat the ending symbol as a consonant.
