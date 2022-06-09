@@ -4,7 +4,7 @@ This repository contains a C# library code for OpenUtau X-Sampa Phonemizer.
 ## Installation
 1. Put the dll file into the Plugins folder inside OpenUtau root folder.
 2. Put the yaml file into your voicebank folder.
-3. ***Optional:*** You can open the yaml file using notepad and modify the list of vowels to suit your voicebank (add diphthongs, switch to arpabet, etc.). Other phonemes would be considered as consonants.
+3. ***Optional:*** You can open the yaml file using notepad and modify the list of vowels to suit your voicebank (add diphthongs, switch to ARPABET, etc.). Other phonemes would be considered as consonants.
 
 ## Usage
 - Write only one syllable per note. A group of vowels (not separated by any consonant) is considered one syllable.<br />
